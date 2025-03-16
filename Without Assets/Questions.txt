@@ -1,0 +1,7 @@
+# Beginner Level
+
+1. Number Guessing Game
+   - Write a Python program that generates a random number between 1 and 100 and asks the user to guess it, providing feedback on whether the guess is too high or too low.
+
+2. Palindrome Check
+   - Write a Python function that checks if a given string is a palindrome (reads the same forwards and backwards).
