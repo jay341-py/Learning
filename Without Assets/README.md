@@ -29,7 +29,7 @@ This repository includes 50 Python challenges categorized into five levels:
 Each challenge is implemented in a clean and beginner-friendly way. You'll also find individual README files for selected challenges explaining the logic and usage.
 
 # 🧩 Challenge Categories
-  🟢 Beginner Level
+  ##🟢 Beginner Level
 
     1. Number Guessing Game
 
@@ -51,7 +51,7 @@ Each challenge is implemented in a clean and beginner-friendly way. You'll also 
 
     💡 Write a Python function that calculates the average of a list of numbers.
   
-  🟡 Intermediate Level
+  ##🟡 Intermediate Level
 
     6. Matrix Addition
 
@@ -72,7 +72,7 @@ Each challenge is implemented in a clean and beginner-friendly way. You'll also 
     10. Duplicate Elements in List
 
     💡 Write a Python function that finds and returns duplicate elements in a list.
-  🔵 Advanced Level
+  ##🔵 Advanced Level
 
     11. Anagram Checker
 
@@ -94,7 +94,7 @@ Each challenge is implemented in a clean and beginner-friendly way. You'll also 
 
     💡 Write a Python function that finds common elements between two lists.
   
-  🔴 Expert Level
+  ##🔴 Expert Level
 
     16. Simulate a Queue
 
@@ -116,7 +116,7 @@ Each challenge is implemented in a clean and beginner-friendly way. You'll also 
 
     💡 Write a Python program that calculates the frequency of each word in a text file.
     
-  ⭐ Bonus Challenges
+  ##⭐ Bonus Challenges
   
     21	Web Scraper
 
